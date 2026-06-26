@@ -1,0 +1,5 @@
+Error opening file "/home/nikhil/decoder-diary/frontend/openapi.json" 
+ENOENT: no such file or directory, open '/home/nikhil/decoder-diary/frontend/openapi.json'
+JSONParserError: Error opening file "/home/nikhil/decoder-diary/frontend/openapi.json" 
+ENOENT: no such file or directory, open '/home/nikhil/decoder-diary/frontend/openapi.json'
+    at Object.read (/home/nikhil/decoder-diary/frontend/node_modules/@apidevtools/json-schema-ref-parser/dist/lib/resolvers/file.js:61:19)
